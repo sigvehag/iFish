@@ -37,5 +37,5 @@ int main(void) {
 
   XCloseDisplay(d);
   return 0;
-
+  
 }
